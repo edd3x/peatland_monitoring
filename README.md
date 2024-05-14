@@ -1,3 +1,4 @@
 # Estimating GPP with Satellite Images
 Gross Primary Production (GPP) maps generated from Sentinel 2 and MODIS LST products 
-<img src=''>
+
+<img src='https://github.com/edd3x/peatland_monitoring/blob/main/estimated_gpp.png'>
